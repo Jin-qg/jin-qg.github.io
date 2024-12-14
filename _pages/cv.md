@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D student in Photogrammetry and Remote Sensing, Wuhan University, 2024-
+* M.S. in Cartography and Geogrphical Information System, Wuhan University, 2021-2024
+* B.S. in Remote Sensing and Information Engineering, Wuhan University, 2017-2021
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,14 +32,14 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -47,7 +47,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Awards and Honors
+======
+* National Scholarship of China for Postgraduate in 2023
+  
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +62,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
