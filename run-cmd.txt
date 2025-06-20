@@ -1,8 +1,14 @@
 # jekyll runs test
 bundle exec jekyll serve
 
+# set proxy (if needed)
+git config --global http.proxy socks5 127.0.0.1:10808
+git config --global https.proxy socks5 127.0.0.1:10808
+git config --global http.proxy 127.0.0.1:10809
+git config --global https.proxy 127.0.0.1:10809
+
 # git updates the program
-git pull
+git pull				# check if it covers the changes
 git add .
-git commit -m "update: 123123"	# abolish it with : git commit --amend
+git commit -m "update: 123123"	# if need withdrawal, abolish it with : git commit --amend
 git push origin master		# for the first time : git push -u origin master
