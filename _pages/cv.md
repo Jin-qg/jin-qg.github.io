@@ -15,7 +15,7 @@ Education
 * M.S. in Cartography and Geogrphical Information System, Wuhan University, 2021-2024
 * B.S. in Remote Sensing and Information Engineering, Wuhan University, 2017-2021
 
-Research experience
+<!-- Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,7 +30,7 @@ Research experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 <!-- Skills
 ======

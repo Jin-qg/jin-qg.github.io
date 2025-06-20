@@ -1,0 +1,8 @@
+# jekyll runs test
+bundle exec jekyll serve
+
+# git updates the program
+git pull
+git add .
+git commit -m "update: 123123"	# abolish it with : git commit --amend
+git push origin master		# for the first time : git push -u origin master
