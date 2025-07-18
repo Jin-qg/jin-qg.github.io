@@ -2,16 +2,16 @@
 
 <!-- Icon color -->
 <style>
-.btn--twitter {
-  background: #111111 !important;   /* X黑 */
-  color: #fff !important;
-}
 .btn--facebook {
   background: #1877F2 !important;
   color: #fff !important;
 }
 .btn--linkedin {
   background: #0077B5 !important;
+  color: #fff !important;
+}
+.btn--twitter {
+  background: #111111 !important;
   color: #fff !important;
 }
 .btn--qq {
@@ -35,9 +35,9 @@
 
   <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> X</span></a>
-
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+
+  <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> X</span></a>
 
   <a href="https://connect.qq.com/widget/shareqq/index.html?url={{ base_path }}{{ page.url }}&title={{ page.title | url_encode }}" class="btn btn--qq" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} QQ" target="_blank"><i class="fab fa-qq" aria-hidden="true"></i><span> QQ</span></a>
 

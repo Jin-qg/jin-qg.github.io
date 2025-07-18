@@ -12,5 +12,5 @@ tags:
 ---
 
 Manuscript titled **"3D SCENE RECONSTRUCTION AND PATH PLANNING METHOD FOR UAV IN GNSS-DENIED ENVIRONMENT"**
-is published on <i>ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>.
+is PUBLISHED on <i>ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>.
 You can access it at https://doi.org/10.5194/isprs-annals-X-3-W1-2022-69-2022.

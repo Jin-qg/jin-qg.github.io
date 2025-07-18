@@ -10,6 +10,6 @@ tags:
 ---
 
 Manuscript titled **"An Improved Probabilistic Roadmap Planning Method for Safe Indoor Flights of Unmanned Aerial Vehicles"**
-is published on <i>Drones</i>, 
+is PUBLISHED on <i>Drones</i>, 
 belonging to special issue <i>Navigation, Control and Mission Planning Advances for Safe, Efficient and Autonomous Drones</i>.
 You can access it at https://doi.org/10.3390/drones7020092.

@@ -10,5 +10,5 @@ tags:
 ---
 
 Manuscript titled **"Airborne laser scanning data quality enhancement via rigorous calibration and comprehensive strip adjustment techniques"**
-is accepted by <i>Geo-spatial Information Science</i> (GSIS), and will be released once published.
+is ACCEPTED by <i>Geo-spatial Information Science</i> (GSIS), and will be released once published.
 Stay tuned!

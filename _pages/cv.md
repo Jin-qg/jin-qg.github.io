@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D student in Photogrammetry and Remote Sensing, Wuhan University, 2024-
 * M.S. in Cartography and Geogrphical Information System, Wuhan University, 2021-2024
-* B.S. in Remote Sensing and Information Engineering, Wuhan University, 2017-2021
+* B.S. in Remote Sensing Science and Technology, Wuhan University, 2017-2021
 
 <!-- Research experience
 ======
